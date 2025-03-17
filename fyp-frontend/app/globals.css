@@ -27,6 +27,6 @@ body {
 
 @layer components{
   .headeritems{
-    @apply ml-10 hover:border-black uppercase text-[min(10vw,70px)];
+    @apply ml-10 hover:border-black uppercase text-[min(10vw,20px)];
   }
 }
